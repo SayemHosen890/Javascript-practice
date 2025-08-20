@@ -1,20 +1,20 @@
-const c = 12;
-const d = 12;
+// const c = 12;
+// const d = 12;
 
-// let addition = a + b;
+// // let addition = a + b;
 
-if (c < d) {
-  console.log("true");
-} else {
-  console.log("false");
-}
+// if (c < d) {
+//   console.log("true");
+// } else {
+//   console.log("false");
+// }
 
-console.log("c=", c, "& d=", d);
+// console.log("c=", c, "& d=", d);
 
-console.log("c+d =", c + d);
-console.log("c-d =", c - d);
-console.log("c*d =", c * d);
-console.log("c/d =", c / d);
+// console.log("c+d =", c + d);
+// console.log("c-d =", c - d);
+// console.log("c*d =", c * d);
+// console.log("c/d =", c / d);
 
 //arithmetic
 
@@ -90,47 +90,47 @@ console.log("c/d =", c / d);
 // }
 // console.log(color);
 
-let num = 25;
-let num2 = 26;
+// let num = 25;
+// let num2 = 26;
 
-if (num === num2) {
-  console.log("even");
-} else {
-  console.log("odd");
-}
+// if (num === num2) {
+//   console.log("even");
+// } else {
+//   console.log("odd");
+// }
 
-let mode = "blue";
-let color;
+// let mode = "blue";
+// let color;
 
-if (mode === "dark") {
-  color = "black";
-} else if (mode === "red") {
-  color = "red";
-} else if (mode === "yellow") {
-  color = "yellow";
-} else {
-  color = "white";
-}
-console.log(color);
+// if (mode === "dark") {
+//   color = "black";
+// } else if (mode === "red") {
+//   color = "red";
+// } else if (mode === "yellow") {
+//   color = "yellow";
+// } else {
+//   color = "white";
+// }
+// console.log(color);
 
-let age = 15;
+// let age = 15;
 
-let result = age >= 18 ? "adult" : "bacca";
-console.log(result);
+// let result = age >= 18 ? "adult" : "bacca";
+// console.log(result);
 
-let score = 90;
-let grade;
+// let score = 90;
+// let grade;
 
-if (score >= 90 && score <= 100) {
-    grade="A+";
-} else if (score >= 80 && score <= 89) {
-  grade = "A";
-} else if (score >= 70 && score <= 79) {
-  grade = "A-";
-} else if (score >= 60 && score <= 69) {
-  grade = "B+";
-} else {
-  grade="F";
-}
+// if (score >= 90 && score <= 100) {
+//     grade="A+";
+// } else if (score >= 80 && score <= 89) {
+//   grade = "A";
+// } else if (score >= 70 && score <= 79) {
+//   grade = "A-";
+// } else if (score >= 60 && score <= 69) {
+//   grade = "B+";
+// } else {
+//   grade="F";
+// }
 
-console.log("your grade",grade)
+// console.log("your grade",grade)
