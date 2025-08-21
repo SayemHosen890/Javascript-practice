@@ -15,4 +15,12 @@ function sum(a, b) {
   return add;
 }
 let added = sum(8, 8);
-console.log(added);
+// console.log(added);
+
+const arrowFunction = (a, b) => {
+  let multi = a * b;
+  console.log(multi,"this is final")
+};
+
+arrowFunction(3,3);
+
